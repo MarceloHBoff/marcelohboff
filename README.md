@@ -9,8 +9,8 @@
 #### And for mobile for both platform i used <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="12" /> (React Native), with the <img src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4" width="12" /> (EXPO) platform 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloHBoff&layout=compact&theme=cobalt" width="400" />
-<img src="https://github-readme-stats.vercel.app/api?username=MarceloHBoff&show_icons=true&theme=cobalt" width="526" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloHBoff&layout=compact&theme=cobalt" width="324" />
+<img src="https://github-readme-stats.vercel.app/api?username=MarceloHBoff&show_icons=true&theme=cobalt" width="426" />
 
 <br />
 <br />
